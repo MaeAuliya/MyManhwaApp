@@ -1,0 +1,96 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Manhwa Favorit Ku</string>
+    <string name="about">About</string>
+    <string name="manhwa_name">Judul Manhwa</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="genre">Genre</string>
+    <string name="namaku">Maisan Auliya</string>
+    <string name="email">maisanaulia02@gmail.com</string>
+    <string name="year">Tahun Rilis</string>
+    <string name="rate">Rating Pribadi</string>
+    <string name="title">Solo Leveling</string>
+    <string name="detail_genre">Adventure, Magic</string>
+    <string name="detail_year">2018</string>
+    <string name="detail_rate">10</string>
+    <string name="sinopsis_desc" tools:ignore="TypographyEllipsis">Manhwa Solo Leveling yang dibuat oleh komikus bernama Chugong, H-goon KI, Soryeong ini bercerita tentang Dikenal sebagai Pemburu Terlemah dari Semua Umat Manusia, kontribusi pemburu peringkat-E Jinwoo Sung untuk penggerebekan sama dengan berusaha untuk tidak terbunuh. Sayangnya, di antara tagihan rumah sakit ibunya, biaya kuliah saudara perempuannya, dan kurangnya prospek pekerjaan, dia tidak punya pilihan selain terus mempertaruhkan nyawanya. Jadi ketika ada kesempatan untuk pembayaran yang lebih besar, dia mengambilnya...hanya untuk bertatap muka dengan makhluk yang kekuatannya melebihi apa pun yang pernah dia lihat! Dengan pemimpin partai kehilangan lengan dan satu-satunya penyembuh berantakan, dapatkah Jinwoo menemukan jalan keluar bagi mereka?</string>
+
+
+    <string-array name="manhwa_data_name">
+        <item>Solo Leveling</item>
+        <item>Tower Of God</item>
+        <item>Eleceed</item>
+        <item>SSS-Class Suicide Hunter</item>
+        <item>Noblesse</item>
+        <item>Return Of Mount Hwa Sect</item>
+        <item>Damn Reincarnation</item>
+        <item>Sword King</item>
+        <item>Swordmaster Youngest Son</item>
+        <item>The Beginning After The End</item>
+    </string-array>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_description">
+        <item tools:ignore="TypographyEllipsis">Manhwa Solo Leveling yang dibuat oleh komikus bernama Chugong, H-goon KI, Soryeong ini bercerita tentang Dikenal sebagai Pemburu Terlemah dari Semua Umat Manusia, kontribusi pemburu peringkat-E Jinwoo Sung untuk penggerebekan sama dengan berusaha untuk tidak terbunuh. Sayangnya, di antara tagihan rumah sakit ibunya, biaya kuliah saudara perempuannya, dan kurangnya prospek pekerjaan, dia tidak punya pilihan selain terus mempertaruhkan nyawanya. Jadi ketika ada kesempatan untuk pembayaran yang lebih besar, dia mengambilnya...hanya untuk bertatap muka dengan makhluk yang kekuatannya melebihi apa pun yang pernah dia lihat! Dengan pemimpin partai kehilangan lengan dan satu-satunya penyembuh berantakan, dapatkah Jinwoo menemukan jalan keluar bagi mereka?</item>
+        <item>Manhwa Tower of God yang dibuat oleh komikus bernama SIU ini bercerita tentang Bam, yang sendirian sepanjang hidupnya telah memasuki menara untuk mengejar teman satu-satunya, Rachel, tetapi bagaimana dia bisa bertahan tanpa memiliki kekuatan atau kekuatan khusus? "Apa yang Anda inginkan? Uang dan kekayaan? Kehormatan dan kebanggaan? Otoritas dan kekuasaan? Balas dendam? Atau sesuatu yang melampaui semuanya? Apa pun yang Anda inginkan—ada di sini."</item>
+        <item tools:ignore="TypographyEllipsis">Manhwa Eleceed yang dibuat oleh komikus bernama Son Jeho ini bercerita tentang Jiwoo adalah seorang pemuda baik hati yang memanfaatkan refleks kilat kucing untuk diam-diam membuat dunia menjadi tempat yang lebih baik - satu anak kecil yang diselamatkan atau hewan peliharaan asuh pada suatu waktu. Kayden adalah seorang agen rahasia yang sedang dalam pelarian, yang mendapati dirinya terjebak dalam tubuh seekor...um...kucing berbulu tua yang sangat gemuk.</item>
+        <item tools:ignore="TypographyEllipsis">Manhwa SSS-Class Suicide Hunter yang dibuat oleh komikus bernama Neida, SHIN Noah ini bercerita tentang Di Menara misterius seperti penjara bawah tanah RPG, Gong-ja Kim menjalani kehidupan duniawi, membuat iri semua pemburu bintang. Suatu hari, keinginannya untuk mendapatkan lebih dikabulkan dengan keterampilan legendaris untuk menyalin kemampuan orang lain... dengan mengorbankan nyawanya.</item>
+        <item>Rai, vampir termulia, bangun dari tidur panjangnya selama 820 tahun. Ia harus memulai hidup barunya sebagai pelajar di sekolah yang didirikan pelayan setianya. Namun hari-harinya terganggu dengan munculnya serangan-serangan misterius dari kelompok yang menyebut dirinya "Unions".</item>
+        <item>Manhwa Return of the Flowery Mountain Sect yang dibuat oleh komikus bernama Biga ini bercerita tentang Chung Myung, Murid ke-13 dari Sekte Gunung Bunga Besar, Salah satu dari 3 Pendekar Pedang Hebat, Orang Suci Pedang Bunga Plum, mengalahkan Chun Ma, yang telah membawa kehancuran dan kekacauan ke dunia.</item>
+        <item>Manhwa Damn Reincarnation yang dibuat oleh komikus bernama Kiki, Mokma ini bercerita tentang Prajurit Hamel melakukan petualangan dengan teman-temannya untuk mengalahkan Raja Iblis, tapi setelah mati sebelum pertempuran terakhir dengan Raja Iblis…. “Waaah.” "Apa-apaan ini!" Dia bereinkarnasi sebagai keturunan dari sesama prajurit, Vermouth. Hamel — tidak, Eugene Lionheart terlahir kembali dengan darah Great Vermouth. </item>
+        <item>Manhwa Otherworldly Sword King’s Survival Records yang dibuat oleh komikus bernama SOON-Q, YKB ini bercerita tentang Ryu Han-bin adalah orang normal yang baru saja keluar dari wajib militernya, ketika dia dipindahkan ke dunia lain. Dibiarkan berjuang sendiri, dia diberi tujuan untuk bertahan hidup dan tumbuh lebih kuat di dunia sunyi yang penuh dengan monster. Masalahnya adalah Pedoman yang seharusnya menjadi sistem pemandunya untuk bertahan hidup dipenuhi dengan kesalahan.</item>
+        <item>Manhwa Swordmaster’s Youngest Son yang dibuat oleh komikus bernama AZI ini bercerita tentang Jin Runcandel adalah putra bungsu dari swordmaster klan terhebat di kontinen, dan merupakan anak paling tidak berbakat di sejarah klannya. Setelah diusir dengan menyedihkan dan bertemu dan menemui akhir yang tidak ada artinya, dia di berikan kesempatan lainnya.</item>
+        <item>Manhwa The Beginning After the End yang dibuat oleh komikus bernama TurtleMe ini bercerita tentang Raja Gray memiliki kekuatan, kekayaan, dan prestise yang tak tertandingi di dunia yang diatur oleh kemampuan bela diri. Namun, kesendirian tetap ada di belakang mereka yang memiliki kekuatan besar. Di bawah eksterior glamor seorang raja yang kuat mengintai cangkang manusia, tanpa tujuan dan kemauan. Bereinkarnasi ke dunia baru yang penuh dengan sihir dan monster, raja memiliki kesempatan kedua untuk menghidupkan kembali hidupnya.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/id/9/99/Solo_Leveling_Webtoon.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/7/7d/Tower_of_God_Volume_1_Cover.jpg</item>
+        <item>https://cdn.mangaupdates.com/image/i348071.png</item>
+        <item>https://static.wikia.nocookie.net/sss-class-suicide-hunter/images/d/dc/SSS%EA%B8%89_%EC%A3%BD%EC%96%B4%EC%95%BC_%EC%82%AC%EB%8A%94_%ED%97%8C%ED%84%B0.png/revision/latest?cb=20210513175658</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/0/07/Noblesse_%28manhwa%29_Cover.jpg</item>
+        <item>https://skydemonorder.nyc3.cdn.digitaloceanspaces.com/covers/eag0RfACnP1VjmY72o1X6mXjkQylcGF0AWlCTrDO.png</item>
+        <item>https://forum.novelupdates.com/attachments/20220625_091626-jpg.72026/</item>
+        <item>https://cdn.myanimelist.net/images/manga/3/273647l.jpg</item>
+        <item>https://static.wikia.nocookie.net/asurascans/images/c/cc/SYS.png/revision/latest?cb=20220503181114</item>
+        <item>https://static.wikia.nocookie.net/thebate/images/7/74/Tapas_Season_3_Cover.png/revision/latest?cb=20200530133251</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Action, Adventure, Fantasy, Shounen</item>
+        <item>Action, Adventure, Comedy, Drama, Fantasy, Mystery, Romance, Supernatural</item>
+        <item>Action, Comedy, Martial Art, Shounen</item>
+        <item>Action, Adventure, Fantasy, Supernatural</item>
+        <item>Action, Fantasy, Comedy</item>
+        <item>Action, Adventure, Comedy, Fantasy, Martial Art</item>
+        <item>Action, Adventure, Drama, Fantasy, Shounen</item>
+        <item>Action, Adventure, Comedy, Isekai, Fantasy</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Action, Adventure, Fantasy, School Life, Tragedy</item>
+    </string-array>
+
+    <string-array name="data_year">
+        <item>2018</item>
+        <item>2010</item>
+        <item>2018</item>
+        <item>2020</item>
+        <item>2014</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2019</item>
+        <item>2022</item>
+        <item>2018</item>
+    </string-array>
+
+    <string-array name="data_rate">
+        <item>10 / 10</item>
+        <item>10 / 10</item>
+        <item>10 / 10</item>
+        <item>9.9 / 10</item>
+        <item>10 / 10</item>
+        <item>10 / 10</item>
+        <item>10 / 10</item>
+        <item>10 / 10</item>
+        <item>10 / 10</item>
+        <item>9.8 / 10</item>
+    </string-array>
+</resources>
